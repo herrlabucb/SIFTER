@@ -10,7 +10,7 @@ Instructions:
 1.	Open MATLAB.
 2.	In MATLAB use the “Current Folder” navigator to go to the folder in which you want to download SIFTER_analysis.
 3.	Right click within the “Current Folder” white space and click on **Source Control > Manage Files**.
-4.	In the window titled “Manage Files Using Source Control”, insert https://github.com/herrlabucb/SIFTER_analysis.git into “Repository Path”.
+4.	In the window titled “Manage Files Using Source Control”, insert https://github.com/herrlabucb/SIFTER.git into “Repository Path”.
 5.	Click “Retrieve” to download the SIFTER_analysis source code. The “SIFTER_analysis” and “demo” folders should now appear in your “Current Folder”.
 6.	Finally, add the software to your path by right clicking on the “SIFTER_analysis” folder within “Current Folder” and clicking **Add to Path > Selected Folders and Subfolders**.
 Typical installation time is < 1 minute.
