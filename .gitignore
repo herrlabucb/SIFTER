@@ -1,0 +1,5 @@
+.DS_Store
+
+# autosave files
+*.m~
+*.asv
